@@ -31,4 +31,3 @@ Hello! I'm a curious Computer Science student who dives into the world of web de
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
