@@ -2,7 +2,7 @@
 Hello! I'm a curious Lebanese Web Developer who dives into the world of web development with a spark of creativity and a dash of code. My journey is fueled by a passion for transforming ideas into sleek, functional websites that captivate and engage users. Whether I'm crafting a seamless user interface or optimizing backend processes, I thrive on challenges that push the boundaries of technology. Always open to learning, collaborating, and pushing boundaries; let’s build something amazing together! 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alaa.asaad.568632) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alaa_asaadd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alaa_asaad) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/alaa72108) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alaa.asaad.568632) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alaa_asaadd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alaa-asaad-505740355/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/alaa72108) 
 
 # 💻 Tech Stack:
 
